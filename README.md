@@ -3,9 +3,9 @@
 
 To Run:
 Install Node
-Enter following commands inside this directory
-: npm install
-npm start
+Enter following commands inside this directory \
+: npm install \
+npm start 
 
 Screenshots: 
 
